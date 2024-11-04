@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elipeeni.github.io/NRH/sitemap_index.txt
+Sitemap: https://elipeeni.github.io/Rah/sitemap_index.txt
+Sitemap: https://elipeeni.github.io/ZYN/sitemap_index.txt
+Sitemap: https://elipeeni.github.io/ldZ/sitemap_index.txt
